@@ -3,6 +3,7 @@ from pynput import keyboard
 import colorama
 
 
+
 class Trie:
 
 	def __init__(self, val='') -> None:
